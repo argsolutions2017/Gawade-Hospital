@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gawadehospital.com/sitemap.xml

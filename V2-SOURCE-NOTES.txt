@@ -1,0 +1,7 @@
+Content and image references verified against the public Gawade Hospital website on 2026-10-02.
+Official public source used: https://gawadehospital.in/
+Google Maps CID link used: https://maps.google.com/?cid=10415093368968884503
+Google review submission place ID used: ChIJtQV7Q8nLwjsRF7HqzzzYiZA
+Public contact used in build: +91 9766334466 / gawadehospitalkhed@gmail.com
+Address: Pabal Rd, near ICICI Bank, Rajgurunagar, Maharashtra 410505
+Google review snapshot displayed on hospital website at build time: 4.8 based on 201 reviews.
