@@ -1,0 +1,6 @@
+.git
+.github
+README.md
+V2-SOURCE-NOTES.txt
+netlify.toml
+wrangler.jsonc
